@@ -1,5 +1,5 @@
-# TECHIN510_Lab3
-# Promptbase
+# TECHIN510_Lab4
+# Accessing Web Resources with Python
 
 A webapp to sreach and filter books by name and description📘.
 
